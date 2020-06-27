@@ -1,0 +1,19 @@
+{
+  "name": "adcolony-barbararola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^83.0.0",
+    "nightwatch": "^1.3.6"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
